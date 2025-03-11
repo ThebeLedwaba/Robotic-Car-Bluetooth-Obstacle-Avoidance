@@ -1,6 +1,6 @@
 // Robotic Car - Bluetooth Controlled with Obstacle Avoidance
-// Author: [Your Name]
-// Year: 2024
+// Author: Thebe Ledwaba
+// Year: 2025
 // Description: Arduino-based robotic car controlled via Bluetooth and avoids obstacles using ultrasonic sensor
 
 // Motor Driver Pins (L298N)
